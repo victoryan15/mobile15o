@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap&#39;');
+body { font: 12pt Arial; }
+h1, h2, h3 { font-family: 'Pacifico', cursive; font-weight: normal;}
+button { font-size: 12pt; padding: 30px; }
+*{
+text-align: center;
+font-size: 80px;
+text-decoration-color: blue;
+margin-top: auto;
+background-color: rgb(255, 5, 5);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 
+'Lucida Grande', 'Lucida Sans Unicode','   Geneva',
+ Verdana, sans-serif;
+}
